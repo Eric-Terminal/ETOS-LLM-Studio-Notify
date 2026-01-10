@@ -1,1 +1,8 @@
-test
+{
+  "id": 2026011101,     
+  "type": "info",           
+  "min_build": "1",
+  "max_build": "150",
+  "title": "通知测试",
+  "body": "测试",
+}
