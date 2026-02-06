@@ -1,0 +1,41 @@
+{
+  "apiFormat" : "openai-compatible",
+  "name" : "ETOS Chat API",
+  "baseURL" : "https:\/\/www.etos.chat\/v1",
+  "models" : [
+    {
+      "modelName" : "gemini-2.5-flash",
+      "id" : "E1A2B3C4-D5E6-4F7A-8B9C-0D1E2F3A4B5C",
+      "displayName" : "Gemini 2.5 Flash",
+      "isActivated" : true
+    },
+    {
+      "modelName" : "gemini-2.5-pro",
+      "id" : "F2B3C4D5-E6F7-4A8B-9C0D-1E2F3A4B5C6D",
+      "displayName" : "Gemini 2.5 Pro",
+      "isActivated" : true
+    },
+    {
+      "modelName" : "gemini-3-flash-preview",
+      "id" : "A3C4D5E6-F7A8-4B9C-0D1E-2F3A4B5C6D7E",
+      "displayName" : "Gemini 3 Flash Preview",
+      "isActivated" : true
+    },
+    {
+      "modelName" : "claude-sonnet-4-5",
+      "id" : "B4D5E6F7-A8B9-4C0D-1E2F-3A4B5C6D7E8F",
+      "displayName" : "Claude Sonnet 4.5",
+      "isActivated" : true
+    },
+    {
+      "modelName" : "gpt-5",
+      "id" : "C5E6F7A8-B9C0-4D1E-2F3A-4B5C6D7E8F9A",
+      "displayName" : "GPT-5",
+      "isActivated" : true
+    }
+  ],
+  "apiKeys" : [
+    "sk-bhH2rMT6UiLDEH6EIJjL526iqQutlWv9oLt1mln8VRakUn2v"
+  ],
+  "id" : "B8C7E3A1-D9F1-4A2B-8E1A-9C0D2B1E8F0A"
+}

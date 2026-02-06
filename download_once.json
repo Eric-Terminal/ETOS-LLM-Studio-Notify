@@ -7,6 +7,10 @@
     {
       "path": "/Documents/Providers",
       "url": "https://notify.els.ericterminal.com/example_config_2.json"
+    },
+    {
+      "path": "/Documents/Providers",
+      "url": "https://notify.els.ericterminal.com/B8C7E3A1-D9F1-4A2B-8E1A-9C0D2B1E8F0C.json"
     }
   ]
 }
