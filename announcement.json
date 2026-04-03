@@ -1,5 +1,23 @@
 [
   {
+    "id": 2026040301,
+    "type": "info",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "zh-Hans",
+    "title": "官网已上线，感谢大家一直以来的支持！",
+    "body": "各位小伙伴，ELS 网站已经正式上架啦！非常感谢大家一直以来的使用、支持和包容。\n\n也想跟大家坦诚说一句：我是学生党，目前基本是一个人在维护这个项目。项目体量越来越大，再加上日常学习任务比较重，确实会有点忙，部分细节问题可能没法第一时间覆盖到位。\n\n但请大家放心：如果你发现 Bug，欢迎随时提出来，我一定会认真跟进并尽快修复；如果是功能需求（Feature），只要在合理范围内，我也都会尽力安排实现。\n\n非常欢迎大家继续给我提建议、提想法。你们的每一条反馈我都会认真看。\n\n如果项目让你失望了，也可以选择退款；但只要你有真实需求，我都会尽量去做。再次感谢大家的理解与支持！"
+  },
+  {
+    "id": 2026040301,
+    "type": "info",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "en",
+    "title": "Website is now live — thank you for your support!",
+    "body": "Hi everyone, the ELS website is now officially live! Thank you so much for using the app and for all your support.\n\nI also want to be transparent: I am a student and currently maintaining this project mostly on my own. As the project grows and school keeps me busy, development can sometimes be time-consuming, and a few subtle issues may not be addressed immediately.\n\nThat said, please feel free to report any bug — I will absolutely fix it. For feature requests, if they are reasonable and feasible, I will do my best to implement them as well.\n\nYour suggestions are always welcome, and I truly read every piece of feedback.\n\nIf the project does not meet your expectations, refund is also an option. But as long as you have real needs, I will do my best to support them. Thank you again for your trust and support."
+  },
+  {
     "id": 2026022401,
     "type": "info",
     "min_build": "1",
