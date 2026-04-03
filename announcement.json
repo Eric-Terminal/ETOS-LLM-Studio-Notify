@@ -18,6 +18,24 @@
     "body": "Hi everyone, the ELS website is now officially live! Thank you so much for using the app and for all your support.\n\nI also want to be transparent: I am a student and currently maintaining this project mostly on my own. As the project grows and school keeps me busy, development can sometimes be time-consuming, and a few subtle issues may not be addressed immediately.\n\nThat said, please feel free to report any bug — I will absolutely fix it. For feature requests, if they are reasonable and feasible, I will do my best to implement them as well.\n\nYour suggestions are always welcome, and I truly read every piece of feedback.\n\nIf the project does not meet your expectations, refund is also an option. But as long as you have real needs, I will do my best to support them. Thank you again for your trust and support."
   },
   {
+    "id": 2026040301,
+    "type": "info",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "zh-Hant",
+    "title": "官網已上線，感謝大家一直以來的支持！",
+    "body": "各位小夥伴，ELS 網站已經正式上線啦！非常感謝大家一直以來的使用、支持與包容。\n\n也想跟大家坦白說一句：我是學生黨，目前基本上是一個人在維護這個專案。專案規模越來越大，再加上平時課業也比較繁忙，確實會有些吃力，部分細節問題可能無法第一時間顧及到。\n\n但請大家放心：如果你發現 Bug，歡迎隨時提出來，我一定會認真跟進並盡快修復；如果是功能需求（Feature），只要在合理範圍內，我也都會盡力安排實作。\n\n非常歡迎大家繼續提出建議和想法。你們的每一條回饋我都會認真看。\n\n如果這個專案讓你失望了，也可以選擇退款；但只要你有真實需求，我都會盡量去做。再次感謝大家的理解與支持！"
+  },
+  {
+    "id": 2026040301,
+    "type": "info",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "ja",
+    "title": "公式サイト公開のお知らせと感謝",
+    "body": "みなさん、ELS の公式サイトが正式に公開されました！いつも使ってくださり、応援していただいて本当にありがとうございます。\n\nあわせて正直にお伝えすると、私は学生で、このプロジェクトをほぼ一人で運営・開発しています。プロジェクトの規模が大きくなる中で学業との両立もあり、どうしても時間がかかってしまう場面や、細かな不具合への対応が少し遅れることがあります。\n\nただ、Bug を見つけたらぜひ遠慮なく報告してください。必ず対応して修正します。機能追加（Feature）についても、妥当な範囲であればできる限り実装していきます。\n\nご意見・ご要望はいつでも大歓迎です。いただいたフィードバックはすべてしっかり確認しています。\n\nもし期待に沿えず失望させてしまった場合は、返金を選んでいただいても大丈夫です。それでも、必要なことがあればできる限り応えていきます。これからもよろしくお願いします。"
+  },
+  {
     "id": 2026022401,
     "type": "info",
     "min_build": "1",
