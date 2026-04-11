@@ -1,5 +1,41 @@
 [
   {
+    "id": 2026041101,
+    "type": "info",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "zh-Hans",
+    "title": "正式版更新节奏较稳，欢迎加入免费 TestFlight 抢先体验",
+    "body": "ETOS-LLM-Studio 正式上架后，正式版更新节奏会相对稳一些（审核流程也更长）。\n\n如果你希望第一时间体验新功能和修复，欢迎免费加入 TestFlight：\nhttps://testflight.apple.com/join/d4PgF4CK\n\n这个链接也欢迎转发给朋友，大家都可以免费使用。\n\n后续只要有重要修复或改进，通常都会先在 TestFlight 版本更新。非常感谢大家的支持与反馈！"
+  },
+  {
+    "id": 2026041101,
+    "type": "info",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "en",
+    "title": "Stable App Store cadence — join free TestFlight for faster updates",
+    "body": "Now that ETOS-LLM-Studio is officially on the App Store, updates to the release version will be a bit more conservative (and review takes longer).\n\nIf you want fixes and new features earlier, you’re very welcome to join our free TestFlight build:\nhttps://testflight.apple.com/join/d4PgF4CK\n\nFeel free to share this link with others — it is free to use.\n\nImportant fixes and improvements will usually land on TestFlight first. Thank you for your continued support and feedback!"
+  },
+  {
+    "id": 2026041101,
+    "type": "info",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "zh-Hant",
+    "title": "正式版更新節奏較穩，歡迎加入免費 TestFlight 搶先體驗",
+    "body": "ETOS-LLM-Studio 正式上架後，正式版更新節奏會相對穩一些（審核流程也更長）。\n\n如果你希望第一時間體驗新功能和修復，歡迎免費加入 TestFlight：\nhttps://testflight.apple.com/join/d4PgF4CK\n\n這個連結也歡迎轉發給朋友，大家都可以免費使用。\n\n後續只要有重要修復或改進，通常都會先在 TestFlight 版本更新。非常感謝大家的支持與回饋！"
+  },
+  {
+    "id": 2026041101,
+    "type": "info",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "ja",
+    "title": "正式版は更新ペース控えめ、無料TestFlightで先行利用できます",
+    "body": "ETOS-LLM-Studio の正式公開後は、正式版の更新ペースが比較的ゆるやかになります（審査にも時間がかかります）。\n\n新機能や修正をできるだけ早く試したい方は、ぜひ無料の TestFlight にご参加ください：\nhttps://testflight.apple.com/join/d4PgF4CK\n\nこのリンクは友だちに共有していただいても大丈夫です。誰でも無料で利用できます。\n\n今後の重要な修正や改善は、通常 TestFlight 版に先に反映されます。引き続き応援とフィードバックをありがとうございます！"
+  },
+  {
     "id": 2026040301,
     "type": "info",
     "min_build": "1",
