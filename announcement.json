@@ -1,82 +1,110 @@
 [
   {
-    "id": 2026041101,
+    "id": 2026041301,
     "type": "info",
     "min_build": "1",
     "max_build": "9999",
     "language": "zh-Hans",
-    "title": "正式版更新节奏较稳，欢迎加入免费 TestFlight 抢先体验",
-    "body": "ETOS-LLM-Studio 正式上架后，正式版更新节奏会相对稳一些（审核流程也更长）。\n\n如果你希望第一时间体验新功能和修复，欢迎免费加入 TestFlight：\nhttps://testflight.apple.com/join/d4PgF4CK\n\n这个链接也欢迎转发给朋友，大家都可以免费使用。\n\n后续只要有重要修复或改进，通常都会先在 TestFlight 版本更新。非常感谢大家的支持与反馈！"
+    "title": "ETOS-LLM-Studio 正式上线！更新节奏说明与 TestFlight 邀请",
+    "body": "各位小伙伴，ETOS-LLM-Studio App 已经正式上架啦！非常感谢大家一直以来的使用、支持和包容。\n\n想跟大家坦诚说一句：作为学生党，目前基本是我一个人在维护这个越来越大的项目。学业繁重时确实会有点忙，部分细节可能没法第一时间覆盖到位，因此正式版（App Store）的更新节奏也会相对稳一些。\n\n如果你希望第一时间体验新功能和修复，欢迎免费加入 TestFlight：\nhttps://testflight.apple.com/join/d4PgF4CK\n（这个链接也欢迎转发给朋友，大家都可以免费使用。）\n\n请大家放心：如果你发现 Bug 或有合理的功能需求，欢迎随时提出来，我一定会认真跟进。如果项目让你失望了也可以选择退款；但只要你有真实需求，我都会尽量去做。再次感谢大家的理解与反馈！\n\n交流与反馈 QQ 群：974605250"
   },
   {
-    "id": 2026041101,
-    "type": "info",
-    "min_build": "1",
-    "max_build": "9999",
-    "language": "en",
-    "title": "Stable App Store cadence — join free TestFlight for faster updates",
-    "body": "Now that ETOS-LLM-Studio is officially on the App Store, updates to the release version will be a bit more conservative (and review takes longer).\n\nIf you want fixes and new features earlier, you’re very welcome to join our free TestFlight build:\nhttps://testflight.apple.com/join/d4PgF4CK\n\nFeel free to share this link with others — it is free to use.\n\nImportant fixes and improvements will usually land on TestFlight first. Thank you for your continued support and feedback!"
-  },
-  {
-    "id": 2026041101,
+    "id": 2026041301,
     "type": "info",
     "min_build": "1",
     "max_build": "9999",
     "language": "zh-Hant",
-    "title": "正式版更新節奏較穩，歡迎加入免費 TestFlight 搶先體驗",
-    "body": "ETOS-LLM-Studio 正式上架後，正式版更新節奏會相對穩一些（審核流程也更長）。\n\n如果你希望第一時間體驗新功能和修復，歡迎免費加入 TestFlight：\nhttps://testflight.apple.com/join/d4PgF4CK\n\n這個連結也歡迎轉發給朋友，大家都可以免費使用。\n\n後續只要有重要修復或改進，通常都會先在 TestFlight 版本更新。非常感謝大家的支持與回饋！"
+    "title": "ETOS-LLM-Studio 正式上線！更新節奏說明與 TestFlight 邀請",
+    "body": "各位小夥伴，ETOS-LLM-Studio App 已經正式上線啦！非常感謝大家一直以來的使用、支持與包容。\n\n想跟大家坦白說一句：作為學生黨，目前基本上是我一個人在維護這個越來越大的專案。課業繁忙時確實會有些吃力，部分細節可能無法第一時間顧及到，因此正式版（App Store）的更新節奏也會相對穩一些。\n\n如果你希望第一時間體驗新功能和修復，歡迎免費加入 TestFlight：\nhttps://testflight.apple.com/join/d4PgF4CK\n（這個連結也歡迎轉發給朋友，大家都可以免費使用。）\n\n請大家放心：如果你發現 Bug 或有合理的功能需求，歡迎隨時提出來，我一定會認真跟進。如果這個專案讓你失望了也可以選擇退款；但只要你有真實需求，我都會盡量去做。再次感謝大家的理解與支持！\n\n交流與回饋 QQ 群：974605250"
   },
   {
-    "id": 2026041101,
+    "id": 2026041301,
+    "type": "info",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "en",
+    "title": "ETOS-LLM-Studio is Live! Update Cadence & TestFlight Invitation",
+    "body": "Hi everyone, the ETOS-LLM-Studio app is now officially live! Thank you so much for using the app and for all your support.\n\nI want to be transparent: As a student maintaining this growing project mostly on my own, school keeps me quite busy. Some subtle issues might not be addressed immediately, and App Store updates will follow a more conservative cadence.\n\nIf you want fixes and new features earlier, you’re very welcome to join our free TestFlight build:\nhttps://testflight.apple.com/join/d4PgF4CK\n(Feel free to share this link with others — it is free to use.)\n\nPlease feel free to report any bug or reasonable feature request — I will absolutely do my best to address them. If the project doesn't meet your expectations, a refund is an option. But as long as you have real needs, I'm here to support them. Thank you again for your trust and feedback!"
+  },
+  {
+    "id": 2026041301,
     "type": "info",
     "min_build": "1",
     "max_build": "9999",
     "language": "ja",
-    "title": "正式版は更新ペース控えめ、無料TestFlightで先行利用できます",
-    "body": "ETOS-LLM-Studio の正式公開後は、正式版の更新ペースが比較的ゆるやかになります（審査にも時間がかかります）。\n\n新機能や修正をできるだけ早く試したい方は、ぜひ無料の TestFlight にご参加ください：\nhttps://testflight.apple.com/join/d4PgF4CK\n\nこのリンクは友だちに共有していただいても大丈夫です。誰でも無料で利用できます。\n\n今後の重要な修正や改善は、通常 TestFlight 版に先に反映されます。引き続き応援とフィードバックをありがとうございます！"
+    "title": "ETOS-LLM-Studio 正式公開！今後の更新とTestFlightのご案内",
+    "body": "みなさん、ETOS-LLM-Studio App が正式に公開されました！いつも使ってくださり、応援していただいて本当にありがとうございます。\n\nあわせて正直にお伝えすると、私は学生で、このプロジェクトをほぼ一人で運営・開発しています。学業との両立もあり、細かな不具合への対応が少し遅れることがあります。そのため、今後の正式版の更新ペースは比較的ゆるやかになります。\n\n新機能や修正をできるだけ早く試したい方は、ぜひ無料の TestFlight にご参加ください：\nhttps://testflight.apple.com/join/d4PgF4CK\n（このリンクは友だちに共有していただいても大丈夫です。誰でも無料で利用できます。）\n\nBug を見つけたり機能の要望があれば、遠慮なく報告してください。必ず対応して修正します。もし期待に沿えず失望させてしまった場合は、返金を選んでいただいても大丈夫です。それでも、必要なことがあればできる限り応えていきます。これからもよろしくお願いします！"
   },
   {
-    "id": 2026040301,
+    "id": 2026041302,
     "type": "info",
     "min_build": "1",
     "max_build": "9999",
     "language": "zh-Hans",
-    "title": "ETOS-LLM-Studio App 已上线，感谢大家一直以来的支持！",
-    "body": "各位小伙伴，ETOS-LLM-Studio App 已经正式上架啦！非常感谢大家一直以来的使用、支持和包容。\n\n也想跟大家坦诚说一句：我是学生党，目前基本是一个人在维护这个项目。项目体量越来越大，再加上日常学习任务比较重，确实会有点忙，部分细节问题可能没法第一时间覆盖到位。\n\n但请大家放心：如果你发现 Bug，欢迎随时提出来，我一定会认真跟进并尽快修复；如果是功能需求（Feature），只要在合理范围内，我也都会尽力安排实现。\n\n非常欢迎大家继续给我提建议、提想法。你们的每一条反馈我都会认真看。\n\n如果项目让你失望了，也可以选择退款；但只要你有真实需求，我都会尽量去做。再次感谢大家的理解与支持！"
+    "title": "内置“反馈助手”升级，直接和 AI 聊需求！",
+    "body": "好消息！ELS 现已内置全新的反馈助手功能。通过后端中转代理架构，您无需拥有 GitHub 账号，即可直接在 App 内提交 Bug 报告或改进建议，并能实时追踪开发者的处理进度。\n\n更酷的是，您现在可以让 AI 帮您提交反馈！\n操作步骤：\n1. 手机端进入【设置】>【工具中心】（手表端进入【设置】>【拓展功能】>【工具中心】）。\n2. 找到并开启 `app_submit_feedback_ticket` 工具。\n3. 返回聊天界面，确保当前使用的模型允许工具调用。\n4. 直接对 AI 说出您遇到的 App 问题或建议，并让它帮您发送反馈即可！\n\n我们始终坚持最简隐私收集原则，确保反馈过程安全透明。快去试试这个新功能吧！"
   },
   {
-    "id": 2026040301,
-    "type": "info",
-    "min_build": "1",
-    "max_build": "9999",
-    "language": "en",
-    "title": "ETOS-LLM-Studio app is now live — thank you for your support!",
-    "body": "Hi everyone, the ETOS-LLM-Studio app is now officially live! Thank you so much for using the app and for all your support.\n\nI also want to be transparent: I am a student and currently maintaining this project mostly on my own. As the project grows and school keeps me busy, development can sometimes be time-consuming, and a few subtle issues may not be addressed immediately.\n\nThat said, please feel free to report any bug — I will absolutely fix it. For feature requests, if they are reasonable and feasible, I will do my best to implement them as well.\n\nYour suggestions are always welcome, and I truly read every piece of feedback.\n\nIf the project does not meet your expectations, refund is also an option. But as long as you have real needs, I will do my best to support them. Thank you again for your trust and support."
-  },
-  {
-    "id": 2026040301,
+    "id": 2026041302,
     "type": "info",
     "min_build": "1",
     "max_build": "9999",
     "language": "zh-Hant",
-    "title": "ETOS-LLM-Studio App 已上線，感謝大家一直以來的支持！",
-    "body": "各位小夥伴，ETOS-LLM-Studio App 已經正式上線啦！非常感謝大家一直以來的使用、支持與包容。\n\n也想跟大家坦白說一句：我是學生黨，目前基本上是一個人在維護這個專案。專案規模越來越大，再加上平時課業也比較繁忙，確實會有些吃力，部分細節問題可能無法第一時間顧及到。\n\n但請大家放心：如果你發現 Bug，歡迎隨時提出來，我一定會認真跟進並盡快修復；如果是功能需求（Feature），只要在合理範圍內，我也都會盡力安排實作。\n\n非常歡迎大家繼續提出建議和想法。你們的每一條回饋我都會認真看。\n\n如果這個專案讓你失望了，也可以選擇退款；但只要你有真實需求，我都會盡量去做。再次感謝大家的理解與支持！"
+    "title": "內建「回饋助手」升級，直接和 AI 聊需求！",
+    "body": "好消息！ELS 現已內建全新的回饋助手功能。透過後端中轉代理架構，您無需擁有 GitHub 帳號，即可直接在 App 內提交 Bug 報告或改進建議，並能即時追蹤開發者的處理進度。\n\n更酷的是，您現在可以讓 AI 幫您提交回饋！\n操作步驟：\n1. 手機端進入【設定】>【工具中心】（手錶端進入【設定】>【擴充功能】>【工具中心】）。\n2. 找到並開啟 `app_submit_feedback_ticket` 工具。\n3. 返回聊天介面，確保當前使用的模型允許工具呼叫。\n4. 直接對 AI 說出您遇到的 App 問題或建議，並讓它幫您發送回饋即可！\n\n我們始終堅持最簡隱私收集原則，確保回饋過程安全透明。快去試試這個新功能吧！"
   },
   {
-    "id": 2026040301,
+    "id": 2026041302,
+    "type": "info",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "en",
+    "title": "Built-in Feedback Assistant Upgraded: Talk to AI Directly!",
+    "body": "Great news! ELS now features an all-new built-in Feedback Assistant. Through our backend proxy architecture, you can submit bug reports or feature requests directly within the app without needing a GitHub account, and track the developer's progress in real time.\n\nEven cooler, you can now let AI submit feedback for you!\nSteps:\n1. On iPhone, go to [Settings] > [Tool Center] (On Apple Watch: [Settings] > [Extensions] > [Tool Center]).\n2. Find and enable the `app_submit_feedback_ticket` tool.\n3. Return to the chat interface and ensure your current model supports tool calling.\n4. Simply tell the AI about the app issue or suggestion you have, and ask it to send the feedback for you!\n\nWe strictly adhere to a minimal privacy collection principle, ensuring the feedback process is secure and transparent. Go try out this new feature!"
+  },
+  {
+    "id": 2026041302,
     "type": "info",
     "min_build": "1",
     "max_build": "9999",
     "language": "ja",
-    "title": "ETOS-LLM-Studio App公開のお知らせと感謝",
-    "body": "みなさん、ETOS-LLM-Studio App が正式に公開されました！いつも使ってくださり、応援していただいて本当にありがとうございます。\n\nあわせて正直にお伝えすると、私は学生で、このプロジェクトをほぼ一人で運営・開発しています。プロジェクトの規模が大きくなる中で学業との両立もあり、どうしても時間がかかってしまう場面や、細かな不具合への対応が少し遅れることがあります。\n\nただ、Bug を見つけたらぜひ遠慮なく報告してください。必ず対応して修正します。機能追加（Feature）についても、妥当な範囲であればできる限り実装していきます。\n\nご意見・ご要望はいつでも大歓迎です。いただいたフィードバックはすべてしっかり確認しています。\n\nもし期待に沿えず失望させてしまった場合は、返金を選んでいただいても大丈夫です。それでも、必要なことがあればできる限り応えていきます。これからもよろしくお願いします。"
+    "title": "内蔵「フィードバックアシスタント」が進化！AIに直接要望を伝えよう！",
+    "body": "朗報です！ELSに全く新しいフィードバックアシスタント機能が内蔵されました。バックエンドのプロキシアーキテクチャにより、GitHubアカウントを持っていなくても、アプリ内から直接バグ報告や改善提案を送信でき、開発者の対応状況をリアルタイムで追跡できます。\n\nさらにすごいことに、AIにフィードバックの送信を任せることができるようになりました！\n手順：\n1. iPhoneの場合：【設定】>【ツールセンター】を開く（Apple Watchの場合：【設定】>【拡張機能】>【ツールセンター】）。\n2. `app_submit_feedback_ticket` ツールを見つけて有効にする。\n3. チャット画面に戻り、現在使用中のモデルがツール呼び出し（Tool Calling）を許可していることを確認する。\n4. アプリに関する問題や提案を直接AIに話し、フィードバックを送信するように頼むだけです！\n\n私たちは常に最小限のプライバシー収集の原則を貫き、フィードバックのプロセスが安全かつ透明であることを保証しています。ぜひこの新機能を試してみてください！"
   },
   {
-    "id": 2026022401,
-    "type": "info",
+    "id": 2026041303,
+    "type": "warning",
     "min_build": "1",
     "max_build": "9999",
-    "title": "内置‘反馈助手’正式上线！",
-    "body": "好消息！ELS 现已内置全新的反馈助手功能。通过后端中转代理架构，您无需拥有 GitHub 账号，即可直接在 App 内提交 Bug 报告或改进建议，并能实时追踪开发者的处理进度。我们始终坚持最简隐私收集原则，确保反馈过程安全透明。赶快点击反馈图标体验吧！"
+    "language": "zh-Hans",
+    "title": "关于 ETOS LLM Studio 定位与内置免费 API 的重要说明",
+    "body": "欢迎使用 ETOS LLM Studio (ELS)！在深入体验前，请务必了解本软件的核心定位：\n\n【BYOK 工具，非传统 C 端产品】\nELS 本质上是一个 BYOK (Bring Your Own Key) 客户端，专为您接入和管理自己的大模型 API 服务而设计。如果您只是需要一个稳定、免费且开箱即用的 AI 助手，建议您直接下载如【豆包】或【DeepSeek】等成熟的官方 C 端应用。\n\n【关于内置免费 API 的免责声明】\n为了降低大家的使用门槛，程序会在首次初始化时自动下发由公益站大佬无私提供的免费 API 配置。但这并非 ELS 的核心服务，且 API 的运行完全不受我个人管理。近期由于官方对反代节点的封控极为严厉，这些内置 API 的稳定性无法得到任何保证（它们随时可能失效）。如果您希望稳定体验开源模型，建议您前往 NVIDIA 官网申请免费的 API Key 接入 ELS。\n*提示：如果您因已自行配置而导致未能自动获取该内置 API，您可以尝试重新安装 App，或者加入官方交流群（974605250）获取。*\n\n【反盗刷与滥用警告】\n我之所以没有在 ELS 中加入繁琐的账号注册和中心化服务器验证，是基于最简隐私收集的原则。但请不要将这份对隐私的尊重视为可被随意践踏的漏洞。请各位正常在客户端内使用，切勿将内置 API 提取用于二次倒卖或外部抓包中转。\n为了维护公益环境，一旦发现严重滥用，我保留随时关闭内置 API 的权利，甚至引入底层防御。必要时，我会激活基于 Apple SEP (Secure Enclave Processor) 的 App Attest 硬件级校验——所有认证密钥将被死锁在独立于主 CPU 的硬件安全岛中，服务端将仅响应原生 App 的签名请求，彻底瘫痪任何形式的模拟器或抓包 2api 行为。\n\n感谢您的理解，祝您使用愉快！"
+  },
+  {
+    "id": 2026041303,
+    "type": "warning",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "zh-Hant",
+    "title": "關於 ETOS LLM Studio 定位與內建免費 API 的重要說明",
+    "body": "歡迎使用 ETOS LLM Studio (ELS)！在深入體驗前，請務必了解本軟體的核心定位：\n\n【BYOK 工具，非傳統 C 端產品】\nELS 本質上是一個 BYOK (Bring Your Own Key) 客戶端，專為您接入和管理自己的大模型 API 服務而設計。如果您只是需要一個穩定、免費且開箱即用的 AI 助手，建議您直接下載如【豆包】或【DeepSeek】等成熟的官方 C 端應用。\n\n【關於內建免費 API 的免責聲明】\n為了降低大家的使用門檻，程式會在首次初始化時自動派發由公益站大佬無私提供的免費 API 配置。但這並非 ELS 的核心服務，且 API 的運行完全不受我個人管理。近期由於官方對反代節點的封控極為嚴厲，這些內建 API 的穩定性無法得到任何保證（它們隨時可能失效）。如果您希望穩定體驗開源模型，建議您前往 NVIDIA 官網申請免費的 API Key 接入 ELS。\n*提示：如果您因已自行配置而導致未能自動獲取該內建 API，您可以嘗試重新安裝 App，或者加入官方交流群（974605250）獲取。*\n\n【反盜刷與濫用警告】\n我之所以沒有在 ELS 中加入繁瑣的帳號註冊和中心化伺服器驗證，是基於最簡隱私收集的原則。但請不要將這份對隱私的尊重視為可被隨意踐踏的漏洞。請各位正常在客戶端內使用，切勿將內建 API 提取用於二次倒賣或外部抓包中轉。\n為了維護公益環境，一旦發現嚴重濫用，我保留隨時關閉內建 API 的權利，甚至引入底層防禦。必要時，我會啟用基於 Apple SEP (Secure Enclave Processor) 的 App Attest 硬體級校驗——所有認證金鑰將被死鎖在獨立於主 CPU 的硬體安全島中，伺服器端將僅響應原生 App 的簽名請求，徹底癱瘓任何形式的模擬器或抓包 2api 行為。\n\n感謝您的理解，祝您使用愉快！"
+  },
+  {
+    "id": 2026041303,
+    "type": "warning",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "en",
+    "title": "Important Notice on ETOS LLM Studio's Positioning and Built-in Free APIs",
+    "body": "Welcome to ETOS LLM Studio (ELS)! Before you dive in, please understand the core positioning of this software:\n\n[A BYOK Tool, Not a Traditional Consumer Product]\nELS is fundamentally a BYOK (Bring Your Own Key) client designed for you to connect and manage your own Large Language Model API services. If you simply need a stable, free, and out-of-the-box AI assistant, we recommend downloading mature, official consumer apps like [ChatGPT], [Gemini], or [Claude].\n\n[Disclaimer Regarding Built-in Free APIs]\nTo lower the barrier to entry, the app automatically configures free APIs provided by community contributors upon first launch. However, this is not a core service of ELS, and the operation of these APIs is not managed by me. Recently, due to strict platform blockades on reverse proxy nodes, the stability of these built-in APIs cannot be guaranteed in any way.\n\n[Refunds & Free TestFlight Support]\nIf you feel that the BYOK core of this software does not meet your expectations, or you do not want to hassle with API configuration, you can apply for a full refund through the App Store at any time. In addition, if you do not wish to pay but still want to experience ELS, you can save our TestFlight link (https://testflight.apple.com/join/d4PgF4CK), apply for a refund, and then join the beta for free via TestFlight. Either way, you are always welcome here!\n\n[Anti-Abuse & Scraping Warning]\nThe reason I haven't implemented cumbersome account systems or centralized server validation in ELS is out of utmost respect for user privacy. Please do not treat this convenience as a loophole to be exploited. Please use the app normally and do not extract the built-in APIs for secondary distribution or external proxying.\nTo maintain the community's public-interest environment, I reserve the right to shut down the built-in APIs at any time or even introduce low-level defenses if severe abuse is detected. If necessary, I will activate App Attest hardware-level validation based on Apple's SEP (Secure Enclave Processor). All authentication keys will be permanently locked in the device's independent hardware secure enclave, and the server will only respond to signature requests from the native App, completely blocking any form of scraping or emulator behavior.\n\nThank you for your understanding, and enjoy using the app!"
+  },
+  {
+    "id": 2026041303,
+    "type": "warning",
+    "min_build": "1",
+    "max_build": "9999",
+    "language": "ja",
+    "title": "ETOS LLM Studioの基本方針と内蔵無料APIに関する重要なお知らせ",
+    "body": "ETOS LLM Studio (ELS) へようこそ！ご利用の前に、本ソフトウェアの核となる方針についてご理解ください：\n\n【BYOKツールであり、一般向け製品ではありません】\nELSは基本的に、ご自身の大規模言語モデルAPIサービスを接続・管理するためのBYOK（Bring Your Own Key）クライアントです。安定していて無料で、すぐに使えるAIアシスタントをお探しの場合は、【ChatGPT】、【Gemini】、【Claude】などの成熟した公式の一般向けアプリを直接ダウンロードすることをお勧めします。\n\n【内蔵無料APIに関する免責事項】\n利用のハードルを下げるため、初回起動時にコミュニティの有志が提供する無料APIが自動的に設定されます。ただし、これはELSのコアサービスではなく、APIの運用は私が管理しているものではありません。最近、各プラットフォームによるリバースプロキシノードへの規制が非常に厳しいため、これらの内蔵APIの安定性は一切保証できません。\n\n【返金と無料のTestFlightサポート】\nもし本ソフトウェアのBYOKという方針がご自身の期待に合わない場合、またはAPIの設定に手間をかけたくない場合は、App Storeからいつでも全額返金を申請できます。また、支払いはしたくないけれどELSを試してみたいという方は、TestFlightのリンク（https://testflight.apple.com/join/d4PgF4CK）を保存し、返金を申請した後にTestFlight経由で無料でテストに参加することも可能です。どちらの方法でも、あなたのご利用をいつでも歓迎します！\n\n【不正利用およびスクレイピングに対する警告】\nELSに煩雑なアカウントシステムや中央集権的なサーバー検証を導入していないのは、ユーザーのプライバシーを最大限に尊重しているためです。この利便性を悪用可能な抜け穴と見なさないでください。アプリ内で正常にご利用いただき、内蔵APIを二次配布や外部プロキシのために抽出することは絶対におやめください。\nコミュニティの公益環境を守るため、深刻な悪用が発見された場合、私はいつでも内蔵APIを停止し、低レベルの防御機構を導入する権利を留保します。必要に応じて、AppleのSEP（Secure Enclave Processor）に基づくApp Attestハードウェアレベルの検証を有効にします。すべての認証キーはデバイスの独立したハードウェアセキュアエンクレーブにロックされ、サーバーはネイティブアプリからの署名リクエストにのみ応答するようになり、あらゆる形式のスクレイピングやエミュレータの動作を完全に遮断します。\n\nご理解のほどよろしくお願いいたします。それでは、快適なご利用をお楽しみください！"
   }
 ]
